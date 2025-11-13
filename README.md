@@ -1,4 +1,4 @@
-# 🧮 Atividade Prática 04 — Lógica de Programação em Python
+# 🧮 Atividade Prática 05 — Lógica de Programação em Python
 
 Este repositório contém quatro exercícios simples em Python, criados para praticar lógica de programação, funções e operações matemáticas básicas.  
 Cada exercício está em um arquivo separado e pode ser executado individualmente.
